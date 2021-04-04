@@ -1,5 +1,6 @@
 #ifndef DNA_H
 #define DNA_H
+#include <stdio.h>
 
 #define MAX_SIZE 1024
 
